@@ -37,3 +37,8 @@ evaluation/test_filelists/lr*.txt
 #evaluation folder
 evaluation/all_comparison/**/*.csv
 evaluation/all_comparison/**/*.txt
+
+./data
+.DS_Store
+checkpoints
+myenv
